@@ -1,0 +1,136 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  }
+body {
+  font-size:100%;
+  font-family: Arial, sans-serif;
+ 
+  background:#000 url(images/background.gif) repeat-x top left;
+
+}
+
+#container {
+  width:1000px;
+  background:#FFF;
+  margin:0 auto 0 auto;
+}
+
+#body_space {
+  padding:0 8px 0 8px;
+}
+  
+#header {
+  width:984px;
+  background:#FFF;
+  margin:0 auto 0 auto;
+}
+
+.cls {
+clear:both;
+}
+
+
+
+#logo-block {
+  height:126px;
+  width:601px;
+  float:left;
+  text-align:left;
+}
+
+#logo {
+  padding-top:44px;
+  line-height:40px;
+  font:48px Arial, "Times New Roman", Times;
+  padding-left:27px;
+  color:#5A5A5A;
+}
+
+#slogan {
+  font:14px Arial, "Times New Roman", Times;
+  color:#5A5A5A;
+  padding-left:97px;
+}
+
+.logocolor {
+color:#FFDF00;
+}
+
+
+
+
+
+
+
+#top-nav-bg  {
+  background:transparent url(images/topnavbar.gif) no-repeat top left;
+  height:38px;
+  width:984px;
+}
+
+  
+#top-nav {
+  height:38px;
+  width:984px;
+}
+  
+#top-nav ul {
+  list-style:none;
+  padding-left:20px;
+}
+  
+#top-nav ul a {
+  background-image: url(images/topnavdivider.gif);
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-right: 18px;
+  padding-left: 16px;
+  display: block;
+  line-height: 38px;
+  text-decoration: none;
+  font-family: Arial, "Times New Roman", Times, serif;
+  font-size: 17px;
+  color: #FFF;
+}
+  
+#top-nav ul a:hover {
+  color: #FDA041;
+  text-decoration: underline;
+}
+ 
+  #top-nav li {
+    float:left;
+  }
+  
+
+
+
+
+
+
+#footer {
+  clear:both;
+  background:#000; 
+  width:1000px;
+  height:80px;
+  margin:0 auto 0 auto;
+  text-align:left;
+}
+
+#footer-pad {
+  width:984px;
+  padding:50px 0px 0px 0px;
+  text-align:center;
+}
+
+#footer p {
+  font:14px Arial, "Times New Roman", Times;
+  color:#929292;
+}
+
+
+
+
+
